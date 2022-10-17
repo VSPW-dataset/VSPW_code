@@ -2,7 +2,7 @@
 CVPR 2021 VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild
 
 
-### If you need the training and testing code, please contact me (jiaxu.miao@student.uts.edu.au).
+### If you need the training and testing code, please contact me (jiaxumiao@zju.edu.cn).
 ### You can also refer to a good re-implementation code at [this link](https://github.com/sssdddwww2/CVPR2021_VSPW_Implement).
 
 
